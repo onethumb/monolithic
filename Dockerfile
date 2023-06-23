@@ -13,7 +13,6 @@ ENV GENERICCACHE_VERSION=2 \
     CACHE_DISK_SIZE=1000g \
     CACHE_MAX_AGE=3560d \
     CACHE_SLICE_SIZE=1m \
-    UPSTREAM_DNS="8.8.8.8 8.8.4.4" \
     BEAT_TIME=1h \
     LOGFILE_RETENTION=3560 \
     CACHE_DOMAINS_REPO="https://github.com/uklans/cache-domains.git" \
